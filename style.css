@@ -1,0 +1,71 @@
+.container {
+    width: 600px;
+    height: 500px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 10px;
+    margin: 0 auto;
+  }
+  
+  .user {
+    flex: 1;
+    background-color: rgb(157, 157, 227);
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+   
+  }
+  
+  .user h3 {
+    color: rgb(232, 31, 31);
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-top: 100px;
+  }
+  
+  .btn1 {
+    background-color: white;
+    color: black;
+    border: none;
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    margin-top: 100px;
+    padding: 10px 20px;
+    /* text-align: center; */
+    border-radius: 5px;
+    border-radius: 50% ;
+    cursor: pointer;
+    /* align-self: flex-end; */
+  }
+  
+
+  .btn2 {
+    background-color: white;
+    color: black;
+    border: none;
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    margin-top: 100px;
+    padding: 10px 20px;
+    /* text-align: center; */
+    border-radius: 5px;
+    border-radius: 50% ;
+    cursor: pointer;
+    /* align-self: flex-end; */
+  }
+  
+
+  
+  .bg_color{
+      background-color: #6fe13e;
+  }
+  
